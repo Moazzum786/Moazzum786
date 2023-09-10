@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Moazzum Shah Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate aspiring frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazzum786&label=Profile%20views&color=0e75b6&style=flat" alt="moazzum786" /> </p>
 
@@ -20,8 +20,9 @@
 <a href="https://twitter.com/moazzumansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moazzumansari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md moazzum shah ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md moazzum shah ansari" height="30" width="40" /></a>
 <a href="https://instagram.com/moazzum_015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moazzum_015" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/moazzumans786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moazzumans786" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moazzumans786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moazzumans786" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/moazzum786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/moazzum786" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/moazzum786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/moazzum786/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@moazzumans786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@moazzumans786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
