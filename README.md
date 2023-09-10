@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moazzumansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moazzumansari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md moazzum shah ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md moazzum shah ansari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moazzum786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moazzum786" height="30" width="40" /></a>
 <a href="https://instagram.com/moazzum_015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moazzum_015" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/moazzum786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moazzum786" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moazzum786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moazzum786" height="30" width="40" /></a>
